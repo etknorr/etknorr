@@ -16,7 +16,7 @@
 
 > Mechanical engineer by degree, platform engineer by path. I spent four years building SCADA and HMI applications before shifting fully into infrastructure and tooling.
 
-- Senior Application Engineer (Platform) at **Inductive Automation**, leading <kbd>Kubernetes</kbd> platform migrations for customer-facing deployments
+- Senior Platform / Infrastructure Engineer at **Strava**, building and operating the platform that serves athletes at scale
 - Multi-cluster <kbd>AWS</kbd> architecture with GitOps promotion pipelines — <kbd>ArgoCD</kbd> <kbd>Kargo</kbd> <kbd>Helm</kbd>
 - Author of **Stoker**, a custom <kbd>Go</kbd> Kubernetes operator for declarative stateful configuration management
 - Observability across the stack with <kbd>Grafana</kbd> <kbd>Prometheus</kbd> <kbd>OpenTelemetry</kbd>
@@ -55,7 +55,7 @@
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ia-eknorr&theme=dark&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=etknorr&theme=dark&hide_border=true" alt="GitHub streak stats" />
 </div>
 
 ---
@@ -65,5 +65,5 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ia-eknorr.ia-eknorr&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=etknorr.etknorr&" />
 </div>
