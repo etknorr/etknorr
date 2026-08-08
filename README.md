@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/etknorr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://strava.com/athletes/29699424" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Follow%20me%20on%20STRAVA&logo=strava&label=&color=FC5200&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="strava logo" />
@@ -19,8 +19,8 @@
 
 > Mechanical engineer by degree, platform engineer by path. I spent four years building SCADA and HMI applications before shifting fully into infrastructure and tooling.
 
-- Senior Platform / Infrastructure Engineer at **Strava**, building and operating the platform that serves athletes at scale
-- Multi-cluster <kbd>AWS</kbd> architecture with GitOps promotion pipelines — <kbd>ArgoCD</kbd> <kbd>Kargo</kbd> <kbd>Helm</kbd>
+- Senior Platform / Infrastructure Engineer at @strava, building and operating the platform that serves athletes at scale
+- Multi-cluster <kbd>AWS</kbd> architecture with GitOps promotion pipelines: <kbd>ArgoCD</kbd> <kbd>Kargo</kbd> <kbd>Helm</kbd>
 - Author of **Stoker**, a custom <kbd>Go</kbd> Kubernetes operator for declarative stateful configuration management
 - Observability across the stack with <kbd>Grafana</kbd> <kbd>Prometheus</kbd> <kbd>OpenTelemetry</kbd>
 - Outside the terminal I'm usually on a rock face somewhere
