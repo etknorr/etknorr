@@ -19,7 +19,7 @@
 
 > Mechanical engineer by degree, platform engineer by path. I spent four years building SCADA and HMI applications before shifting fully into infrastructure and tooling.
 
-- Senior Platform / Infrastructure Engineer at @strava, building and operating the platform that serves athletes at scale
+- Senior Platform / Infrastructure Engineer at [@strava](https://github.com/strava), building and operating the platform that serves athletes at scale
 - Multi-cluster <kbd>AWS</kbd> architecture with GitOps promotion pipelines: <kbd>ArgoCD</kbd> <kbd>Kargo</kbd> <kbd>Helm</kbd>
 - Author of **Stoker**, a custom <kbd>Go</kbd> Kubernetes operator for declarative stateful configuration management
 - Observability across the stack with <kbd>Grafana</kbd> <kbd>Prometheus</kbd> <kbd>OpenTelemetry</kbd>
